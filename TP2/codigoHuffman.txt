@@ -1,0 +1,4 @@
+O codigo de huffman diz nos quantos bits temo nosso simbolo;
+Conseguimos construir a arvore, atraves do conhecimento do numeros de bits para cada simbolo;
+A codificação tem de se basear so no numeto de bits;
+
